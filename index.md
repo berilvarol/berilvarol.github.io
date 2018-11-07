@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Hi! I'm Beril Varol. 
 
-You can use the [editor on GitHub](https://github.com/berilvarol/berilvarol.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Master's student at Istanbul Technical University, Geomatics Engineering department. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In particular, my research interest is specially based on Remote Sensing. I have worked on digital elevation models, pixel-based and object-based classification for urban areas, Lidar point cloud classification, automatic classification of high-resolution optical images with artificial intelligence.
 
-### Markdown
+Starting from the early years of my undergraduate study, I have engaged in advanced level research activities. I showed a high performance on mentioned topics in school and proved my interest with oral presentations at different international symposiums, with my advisor Prof. Dr. M. Derya Maktav. 
+I am also proficient on variety of subjects in the field such as geodesy, geographical information systems, surveying technique and land management as well, since they all complete each other and cannot be put apart. I admire broad spectrum of approaches to investigate the Earth. I particularly experienced many of these approaches including space technologies, terrestrial techniques, computer sciences, spatial planning and real estate law throughout my field work practices in school. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am also a long-term intern at the ITU Research and Application Center for Satellite Communications and Remote Sensing (CSCRS).
+
+### I'm a musician!
+
+I'm also a professional violinist. I have played in several orchestras and small bands. Currently I play the second violin in Taşplak Symphony Orchestra, which we perform cult old Turkish films' music. Also, I am a street musician. You can come and watch me perform music from a wide range of genres such as rock, metal, pop, baroque etc. 
 
 ```markdown
-Syntax highlighted code block
+You can follow my very musical Instagram page by clicking on the link below:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](www.instagram.com/twobowz) 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/berilvarol/berilvarol.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
